@@ -26,7 +26,7 @@
  ![](./Screenshots/image8.png)
 
 Please answer the following question
-<question source="../questions/Page7/question-01.md" />
+<question source="https://raw.githubusercontent.com/VidyaLakshmi3110/DynamoDb-Cloudlabs/main/Question1.md" />
 
 Please answer the following question
 <question source="../questions/Page7/question-02.md" />
