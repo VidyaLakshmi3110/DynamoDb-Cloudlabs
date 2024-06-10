@@ -24,3 +24,9 @@
 7. After Specifying the details, Scroll down and click on **Create Table**
 
  ![](./Screenshots/image8.png)
+
+Please answer the following question
+<question source="../questions/Page7/question-01.md" />
+
+Please answer the following question
+<question source="../questions/Page7/question-02.md" />
