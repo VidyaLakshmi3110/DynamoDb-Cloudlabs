@@ -37,3 +37,5 @@
 9. In **Items Returned** page one item will be inserted. To add additional items click on **Create Item** and Repeat the procedure.
 
 ![](./Screenshots/image18.png)
+
+<validation step= "83755d69-12f5-4534-a130-4fa25bbe7549"/>
